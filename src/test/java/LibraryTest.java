@@ -7,6 +7,7 @@ import static org.junit.Assert.*;
  * 
  * @author Sergio M.
  * @author Edwin Daniel
+ * @author Bryan Velazquez
  *
  */
 public class LibraryTest {
